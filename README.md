@@ -6,9 +6,9 @@
 <p>
 I'm a student!
 <br>
-🔭 I’m currently working on programming conecpts.
+🔭 I’m currently working on programming concepts.
 
-🤝 I’m looking for help with development of software applications.
+🤝 I’m looking for help with personal development with my career path of software development.
 
 📫 You can reach me at g00383221@gmit.ie
 

@@ -10,7 +10,7 @@ I'm a student!
 
 🤝 I’m looking for help with personal development with my career path of software development.
 
-📫 You can reach me at g00383221@gmit.ie
+📫 You can reach me at g00383221@atu.ie
 
 <b>Languages and Tools:</b>
 <br>
